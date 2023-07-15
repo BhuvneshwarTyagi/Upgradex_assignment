@@ -1,4 +1,4 @@
-# Upgradex Myntra
+# Upgradx Myntra
 
 A new Flutter project.
 
